@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("✅ Data Validation Portal")
+st.title("Data Validation Portal")
 
 uploaded_file = st.file_uploader(
     "Upload Excel File",
